@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://annagajic.github.io/goit-js-hw-10-food-service1/",
+  "homepage": "https://annagajic.github.io/goit-js-hw-10-food-service/",
   "scripts": {
     "dev": "parcel src/*.html --port 1111",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service1/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service/"
   },
   "repository": {
     "type": "git",
