@@ -2,6 +2,7 @@ import './sass/main.scss';
 import menuCardsTpl from './templates/menu-card.hbs';
 import menu from './menu.json';
 
+document.querySelector('body').classList.add('light-theme');
 
 const Theme = {
     LIGHT: 'light-theme',
